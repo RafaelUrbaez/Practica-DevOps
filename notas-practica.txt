@@ -1,0 +1,2 @@
+Este es un archivo de prueba para la práctica de DevOps.
+Aquí se agregan notas de ejemplo para la rama dev.
